@@ -1,22 +1,6 @@
 # ✅ Week05 Bootcamp2019 Project: Todo List
 
-### Goal: Build a Simple Todo List
+A simple to-do list application, that allows you to add tasks to your list, mark tasks as completed, clear completed tasks,
+and clear all tasks.
 
-### How to submit your code for review:
-
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+![todo list image](https://lh3.googleusercontent.com/TP_p24Uu47lAlcfNlmklyBAPuR_OXtCEj6u1xTGgGOE307ZBSqcOiVx4X2Qg-OpCm_4uvbinsTl5r5ird9PAtZeTQ6_1ecXijaeH31-ReerG6CemAv-252CmANTAr8H1fz6J6Q1NWaQ7FN5MRBCcqSmfAF5IDS9JNzqUKKlM2xEpbFwJZG_-_4sAazhvnfBrwrDDJHOe8KKRWIUoofL1NiLwNqEPSrlgD9ApO5DgEldsJdccNuUns5GyW4ffaHo-wYlaTo8QYwHXiNhpjl3xpnPdB-7AKUjg0mX1mCb4Y0ypljptG0r0kETUYEAdQdxjSBIQpBAIImCrc36xev0-iEO2AOGxoPIfbEKdK3h7h1p3DM3L_79GX8PgJ_l39-2fa4CfwcOWtfdxM24jBCkFitxahdjrv4rmJ4S1vhf3Rn3RkwcTJK4oN1UlRc0t-Sy7qyyrjaavuyZQHxEdA7shBWcDcVqWG3vdjx0yT1-fQKKRg6KJuOM23417W7ykhqoP-6MB5YX6fOOS6etIGNwuXYj5s4w9OmMQh-kF2YHBHgIdloJ1yy374q22nXz-8iFGJRnBKtNEuqk7BLjzDn0B-K4hXUhfWcOdVeXeTLiiUQJ-t1BHCFVD-79OOONGbwbM7rmpO1OJmxEHYDptcGIhsNTIieqPWI13Gy3Npo82TAlGh6lsP750MAo=w341-h522-no)
